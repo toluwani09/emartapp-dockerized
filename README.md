@@ -6,7 +6,7 @@ This project documents the transformation of a legacy monolithic Angular web app
 The goal was to improve scalability, maintainability, and deployment efficiency, while also enabling faster developer onboarding and better collaboration between teams.
 
 At the time of this documentation, the application is running in containers on AWS EC2.
-⚠️ Note: HTTPS certificate setup and domain mapping to the EC2 public IP are pending and will be implemented later.
+# Note: HTTPS certificate setup and domain mapping to the EC2 public IP are pending and will be implemented later.
 
 🏗️ Architecture
 
@@ -153,7 +153,7 @@ Built and deployed containers:
 docker-compose build
 docker-compose up -d
 
-📈 Outcome
+# Outcome
 
 Deployment Time: Reduced from hours to minutes with docker-compose up
 
@@ -163,7 +163,7 @@ Maintainability: Modular structure makes it easy to extend features or replace s
 
 Collaboration: Developers can spin up the full stack locally with one command
 
-📌 Next Steps
+# Next Steps
 
 Add HTTPS certificates (via Let’s Encrypt or AWS ACM)
 
@@ -171,11 +171,11 @@ Map a domain name to the EC2 instance public IP
 
 Integrate with CI/CD pipeline for automated builds and deployments
 
-📷 Documentation
+# Documentation
 
 To make the project reproducible and transparent, screenshots and video recordings of the deployment process are included in the emartapp/screenshots and vid directory.
 
-🤝 Credits
+# Credits
 
 Project guided and delivered by Tolulope Olalere – AWS Certified DevOps Engineer
 
