@@ -16,3 +16,4 @@ RUN ls
 EXPOSE 4200
 EXPOSE 5000
 CMD ["/bin/sh", "-c", "cd /usr/src/app/ && npm start"]
+# Test3
