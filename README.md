@@ -6,7 +6,7 @@ This project documents the transformation of a legacy monolithic Angular web app
 The goal was to improve scalability, maintainability, and deployment efficiency, while also enabling faster developer onboarding and better collaboration between teams.
 
 At the time of this documentation, the application is running in containers on AWS EC2.
-# Note: HTTPS certificate setup and domain mapping to the EC2 public IP are pending and will be implemented later.
+Note: HTTPS certificate setup and domain mapping to the EC2 public IP are pending and will be implemented later.
 
 🏗️ Architecture
 
