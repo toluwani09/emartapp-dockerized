@@ -175,6 +175,9 @@ Integrate with CI/CD pipeline for automated builds and deployments
 
 To make the project reproducible and transparent, screenshots and video recordings of the deployment process are included in the emartapp/screenshots and vid directory.
 
+## 🎥 Demo Video
+Watch the Docker build and deployment process here: [Demo Video] https://drive.google.com/drive/folders/1r2lhXqrQ_eoDTtccLX3gH1SG0kMClYbn?usp=drive_link
+
 # Credits
 
 Project guided and delivered by Tolulope Olalere – AWS Certified DevOps Engineer
